@@ -1,0 +1,12 @@
+.container {
+  margin-top: 50px;
+  color: var(--white);
+}
+
+.heading {
+  color: var(--purple);
+}
+
+.text {
+  color: var(--gray-light);
+}
